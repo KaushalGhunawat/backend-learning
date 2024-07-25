@@ -8,3 +8,6 @@
 - nodemon
 - cookie parser
 - cross-origin resource sharing (cors)
+- mongoose-aggregate-paginate
+- bcrypt -A library to help you hash passwords.
+- JWT -jsonwebtoken
