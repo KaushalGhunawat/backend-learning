@@ -11,3 +11,6 @@
 - mongoose-aggregate-paginate
 - bcrypt -A library to help you hash passwords.
 - JWT -jsonwebtoken
+- cloudinary for file storage
+- multer
+- nodejs fs - file system (pre included)
